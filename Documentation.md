@@ -305,7 +305,8 @@ docker run -it student-app
 
 ### Explanation
 Starts a container using the created image.
-
+i - interactive
+t - terminal 
 ---
 
 # ✅ Output
